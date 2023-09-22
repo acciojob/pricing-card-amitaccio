@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+
+
+.card{
+	width:300px;
+	height:400px;
+	background-color:#f1f1f1;
+	text-align:center;
+	padding-top:40px;
+	box-shadow:0px 3px 3px grey;
+	border:none;
+}
+.card>button{
+	background-color:#fe625a;
+	color:white;
+	font-size:20px;
+	padding:10px;
+	border-radius:10px;
+	border:none;
+}
